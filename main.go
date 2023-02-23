@@ -41,7 +41,7 @@ func main() {
 			fmt.Println(inputcons, "is dividable by 31")
 			break
 		} else if equ2 < 0 {
-			fmt.Println(inputcons, "is not divisible by 31")
+			fmt.Println(inputcons, "is not dividableby 31")
 			break
 		}
 
